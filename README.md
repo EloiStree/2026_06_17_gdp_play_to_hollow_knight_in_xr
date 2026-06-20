@@ -1,4 +1,4 @@
-# Play to: 10 Hollow Knight in XR
+# Play to: Hollow Knight in XR
 
 > Learn code by playing Hollow Knight in XR
  
